@@ -12,6 +12,7 @@
 #         self.left = None
 #         self.right = None
 
+# 递归解法
 class Solution:
     # @param root, a tree node
     # @return an integer
